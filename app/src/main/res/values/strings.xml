@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To_Do_List</string>
+    <string name="task">TASK</string>
+    <string name="note">ok button</string>
+</resources>
